@@ -1,0 +1,437 @@
+Mandatory or required or Core Courses 
+
+Area of Computer Science
+Courses
+Number of Credit Hours
+
+
+
+
+Graduate Seminar
+COSC 5100
+1
+
+
+Analysis of Algorithms
+COSC 5313
+3
+
+
+Advanced Operating Systems
+COSC 5302
+3
+
+
+Computer Networks
+COSC 5328
+3
+
+
+Software Engineering
+CPSC 5360
+3
+
+
+Foundations of Computer Science
+COSC 5315
+3
+
+-------------------------------------------------------------------------------
+
+
+Prerequisites and graduate or degree requirements or course completion details
+
+Prerequisites  |  Courses  |  Thesis Options
+
+
+
+Prerequisite Knowledge
+New Students must demonstrate adequate knowledge of Operating Systems and Programming in C/C++/JAVA before beginning the graduate program. We typically require two prerequisite courses. Both the courses do not have to be necessarily taken before you begin to take courses toward your degree. Rather, the prerequisites are usually taken concurrently with classes on your degree plan. The two prerequisites are as follows:
+→ COSC 4302: Operating Systems→ COSC 4304: Foundations of Programming
+Students may be excused from a prerequisites course if they are able to pass a competency closed book exam administered in the department given on the content of the associated course. Before each semester a competency test is given for each prerequisite course by the Computer Science department for a fee of $75 per examination. Each examination may be taken only once but examinations do not have to be taken before the first semester of enrollment. The tests can be taken later in the student's program, but courses requiring one or more of the two prerequisite courses, mentioned above cannot be taken unless either the prerequisite course has been completed successfully or the corresponding competency test has been passed.
+Pay for Prerequisite Tests
+You may take these courses at other accredited universities, and we will accept those transfer credits. If you have already taken these courses at an accredited university, you do not need to take them again. You only need to show your transcript when you arrive. Keep in mind, however, that the same course titles may not indicate the same course content. In particular, we find that very few incoming students who have not already studied in the U.S. know C++ very well, and that almost none of them can program multithread applications in a UNIX environment.
+In addition, to the prerequisites, our M.S. program requires either nine courses and a thesis or 11 courses and a one-semester project. In both cases, an oral defense is required in addition to a written report. If you are a full time student taking nine credit hours (i.e. three courses) during the Fall and Spring semesters and one course during each of the two five-week summer sessions, you will finish all of your work within two years.
+
+
+
+M.S. Core Course Requirement 
+(6 courses; 16 semester hours )Students in the Master's program in Computer Science are required to establish competence in several areas considered basic to the field of Computer Science. At least 28 hours of graduate work in computer science and a thesis or project are required for a Master's degree in Computer Science. In order to qualify for the Master's degree, the student must have a 3.0 GPA in all computer science courses and must earn a grade of B or better in each of the core courses. The Core Requirement consists of the indicated number of courses.   Beginning Spring 2009, graduate students will be required to choose one of the following electives: Simulation, Model Checking, Real-Time Systems, or Advanced Computer Architecture.
+Core Courses List
+
+
+Specialization Areas and Courses
+Students in the Master's program in Computer Science are encouraged to specialize at least in two of the designated seven areas of specialization. They have to complete at least 6 credit hours in each of the areas to complete their specialization. So they have to complete a total of 12 credit hours from the courses mentioned in the specialization areas (6 hours from each area).
+Specialization Areas and Courses
+
+
+
+
+
+
+
+Thesis Options
+
+Option I ( Thesis )
+
+Completion of the core requirements. 
+Students may take one or two courses outside of computer science with the approval of the department chair. At least a "B"(3.0) grade point average must be maintained in course work. At most three "C" grades are permitted in course work, and each "C" must be balanced by an "A" in another computer science graduate level course. Students may not count courses taken in other department to balance "C" grades made in the Computer Science department.  
+Completion of COSC 5390 and COSC 5391 and submission of an acceptable thesis. 
+Completion of a total of 34 graduate semester hours. 
+Successful oral defense of the thesis. If failure occurs, the defense may be repeated. A second failure will cause the student to be dropped from the degree program in Computer Science.
+
+
+
+Option II ( Non-thesis )
+
+Completion of the core requirement. 
+Students may take one or two courses outside of computer science with the approval of the department chair. At least a "B"(3.0) grade point average must be maintained in course work. At most three "C" grades are permitted in course work, and each "C" must be balanced by an "A" in another computer science graduate level course. Students may not count courses taken in other department to balance "C" grades made in the Computer Science department. 
+All non-thesis students must take and satisfactorily complete COSC 5369. This course consists primarily of a significant research project and the submission of a written professional report. 
+Completion of a total of 37 hours in graduate level courses.
+Successful completion of comprehensive examination, which may be written, oral, or a combination of both upon determination of the Computer Science faculty. This comprehensive exam will cover the five core areas and may also include a programming component.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Full Courses Description or Major Courses or Graduate Course Description or overview
+
+
+
+
+Specialization Areas and Courses
+Each Course is of 3 credit hours. You need to take two courses from a specialization area to complete 6 credit hours in that specialization. You need to complete specialization in at least two areas.  View course descriptions below.
+
+
+Architecture/AlgorithmsCourses: COSC 5310, COSC 5350, COSC 5313
+Artificial IntelligenceCourses: CPSC 5370, COSC 5312, COSC 5318, CPSC 5375
+Computer NetworksCourses: CPSC 5320, COSC 5345, COSC 5328, CPSC 5335
+DatabaseCourses: COSC 5311, COSC 5332, COSC 5333, CPSC 5340
+Distributed SystemsCourses: COSC 5333, COSC 5302, COSC 5350
+ 
+
+
+Game Development and AnimationCourses: COSC 5324, COSC 5325
+Computer GraphicsCourses: COSC 5335, CPSC 5321
+Mobile ComputingCourses: CPSC 5326, CPSC 5327
+Real-Time SystemsCourses: CPSC 5328, CPSC 5360
+Simulation/ModelingCourses: COSC 5336, COSC 5309Software EngineeringCourses: CPSC 5360, COSC 5332
+
+
+
+Graduate Course Descriptions
+
+
+
+Computer Science (COSC)
+
+
+
+
+Course Number: 5100
+Credit Hours: 1
+Title: Graduate Seminar
+Course Description: Topics include the scientific method and research process, library utilization and components and organization of various types of research papers. Writing exercises on the latter topics. Preparation, formal written report and presentation on a research topic.
+
+
+
+
+Course Number: 5302
+Credit Hours: 3
+Title: Advanced Operating Systems
+Course Description: Current research issues and advanced topics involving both the principles and pragmatics of operating systems specification, design and implementation. Study of concurrent processes, support structures for modular programming, resource allocation and protection, telecommunications, networks and distributed processing.
+
+
+
+
+Course Number: 5310
+Credit Hours: 3
+Title: Adv Computer Architecture
+Course Description: Advanced topics in computer architecture such as RISC vs CISC, pipelined processors, vector processors, HDLs, language directed architectures and neural nets.
+
+
+
+
+Course Number: 5311
+Credit Hours: 3
+Title: Data Mining
+Course Description: Data models, distributed databases, special databases, statistical databases, database machines, knowledge bases, database design theory and self-documenting databases.
+
+
+
+
+Course Number: 5313
+Credit Hours: 3
+Title: Analysis of Algorithms
+Course Description: Topics on what can and cannot be proven about computational complexity including algorithm design methodologies.
+
+
+
+
+Course Number: 5315
+Credit Hours: 3
+Title: Foundations of Computer Science
+Course Description: The foundations of computer science are studied in order to give a better understanding of the discipline. Topics include: logic, computational models, formal languages, computability and complexity theory.
+
+
+
+
+Course Number: 5321
+Credit Hours: 3
+Title: Computer Graphics
+Course Description: Introduction to computer graphics programming. Topics include graphics programming standards, two-and three-dimensional rendering pipelines, geometric models (including primitives, fonts, curves, and surfaces), affine transformations, orthogonal and perspective views, shading and lighting models, images and texture mapping, interactions and animations. A major project is given encompassing some or all of these concepts.
+
+
+
+
+Course Number: 5322
+Credit Hours: 3
+Title: Computer Vision
+Course Description: This is an introductory course in computer vision that covers the basic theory, algorithms and applications.
+
+
+
+
+Course Number: 5324
+Credit Hours: 3
+Title: Computer Game Development I
+Course Description: Introduction to the design and implementation of computer games, including real-time graphics, audio and interactive multimedia programming techniques.
+
+
+
+
+Course Number: 5325
+Credit Hours: 3
+Title: Computer Game Development II
+Course Description: Continuation of COSC 5324. Advanced game programming techniques, including 3-D graphics, 3-D audio, game physics and networking for multi-player games.
+
+
+
+
+Course Number: 5328
+Credit Hours: 3
+Title: Computing Networks
+Course Description: A study of networks of interacting computers. The problems, rationales and possible solutions for distributed databases will be examined. Major national and international protocols including SNA, S.21 and X.25 will be presented.
+
+
+
+
+Course Number: 5333
+Credit Hours: 3
+Title: Distributed Comp Systems
+Course Description: The study of the characteristics of a collection of autonomous computers linked by a network, with software designed to produce an integrated computing facility that intends to present a transparent virtual machine to application programmers.
+
+
+
+
+Course Number: 5340
+Credit Hours: 3
+Title: Special Topics
+Course Description: Special topics in all areas of Computer Science with emphasis on topics not covered in other courses. May be repeated for credit when topics vary.
+
+
+
+
+Course Number: 5345
+Credit Hours: 3
+Title: Cybersecurity: Networks
+Course Description: This course provides a hands-on study of various network attacks and defending techniques, including main vulnerabilities of TCP/IP protocols, attacks on DNS servers, DoS attacks, firewalls, VPNs, TLS and Blockchain. Basics of TCP/IP protoco;s will also be covered.
+
+
+
+
+Course Number: 5350
+Credit Hours: 3
+Title: Parallel Algorithms
+Course Description: Taxonomy of parallel computers, shared-memory vs. message-passing architectures, theoretical models, parallel algorithm design strategies, parallel data structures, automatic parallelization of sequential programs, communication, synchronization and granularity.
+
+
+
+
+Course Number: 5360
+Credit Hours: 3
+Title: Intern-Grad Students
+Course Description: This course provides practical experience with a company engaged in work related to a career in computer science. The purpose is career development before graduation. The course requires that the student obtain permission for Curricular Practical Training (CPT) from the International Student Office.
+
+
+
+
+Course Number: 5361
+Credit Hours: 3
+Title: Internship-2
+Course Description: A continuation of COSC 5360 for a second semester.
+
+
+
+
+Course Number: 5369
+Credit Hours: 3
+Title: Graduate Project
+Course Description: Independent study and research of a specific problem in a field of computer science or its application. A report is required defining the problem and developing a solution. The work may be supervised by any member of the graduate faculty. The project may be done by a team and must include an oral defense before a graduate committee of at least 3 graduate faculty members. May not be repeated for credit.
+
+
+
+
+Course Number: 5390
+Credit Hours: 3
+Title: Thesis
+Course Description: Independent research of a specific problem in a field of computer science. The work will be supervised by a member of the graduate faculty of the Computer Science Department. To be scheduled only with the consent of the department. Six hours credit required. No credit assigned until thesis has been completed and filed with the graduate dean.
+
+
+
+
+Course Number: 5391
+Credit Hours: 3
+Title: Thesis II
+Course Description: Independent research of a specific problem in a field of computer science. The work will be supervised by a member of the graduate faculty of the Computer Science Department. To be scheduled only with the consent of the department. Six hours credit required. No credit assigned until thesis has been completed and filed with the graduate dean. Continuous enrollment required once work on thesis has begun.
+
+
+
+
+
+
+
+Computer Information Science (CPSC)
+
+
+
+
+Course Number: 5325
+Credit Hours: 3
+Title: Data Science and Big Data Analysis
+Course Description: This course will introduce advanced data science techniques including data preprocessing, visualization, analyzing techniques, and big data analysis techniques such as High-Performance Clustering.
+
+
+
+
+Course Number: 5326
+Credit Hours: 3
+Title: Android Programming
+Course Description: This is an introductory course in Android programming.  Topics include history of Android, hardware, development tools, text-based applications, multi-media applications, accessing the Internet from an application, and user interface design.
+Prior experience with Java is highly recommended.
+
+
+
+
+
+Course Number: 5327
+Credit Hours: 3
+Title: Advanced Android Programming
+Course Description: This is an advanced course in Android programming.
+
+
+
+
+
+Course Number: 5328
+Credit Hours: 3
+Title: Real Time Systems
+Course Description: This course emphasizes two main real-time topics: Real-time scheduling algorithms and schedulability analysis, and formal analysis and verification of real-time systems. It is recommended that students be familiar with symbolic logic and programming languages such as Java or C++
+
+
+
+
+Course Number: 5330
+Credit Hours: 3
+Title: Adv Multimedia Processing
+Course Description: Television style viewing and sound interfacing to computer systems. Software and architectural interconnection requirements of digital interactive video and audio technology. Graphical user interface. Definition, examples, application, review of major implementations, and architecture of multimedia systems. Voice technology: synthesis, recognition and response. Student projects.
+
+
+
+
+Course Number: 5331
+Credit Hours: 3
+Title: Image Processing
+Course Description: This is an introductory course in image processing that covers the basic theory, algorithms and applications.
+
+
+
+
+Course Number: 5340
+Credit Hours: 3
+Title: Database Design
+Course Description: Introductory course on database design. It covers the architecture of database system organization; relational models; entity-relationship models; secondary storage; security issues and normal forms and decomposition theories. A course project is required.
+
+
+
+
+Course Number: 5360
+Credit Hours: 3
+Title: Software Engineering
+Course Description: Systems analysis, software requirements analysis and definition, specification techniques, software design methodologies, performance measurement, validation and verification and quality assurance techniques. Programming in an object oriented language.
+
+
+
+
+Course Number: 5361
+Credit Hours: 3
+Title: Secure Software Engineering
+Course Description: This course covers five main secure software engineering topics such as security, defensive programming, reliability, program understandibility and programmer misconceptions.
+
+
+
+
+Course Number: 5363
+Credit Hours: 3
+Title: Cybersecurity: Systems
+Course Description: This course provides a hands-on study of various attacks and defending techniques on computer software and hardware, including malware, OS security, web security, smartphone security and hardware security. Basics of C programming, OS and HTML will also be covered.
+
+
+
+
+
+Course Number: 5364
+Credit Hours: 3
+Title: Wireless and Mobile Protocols
+Course Description: This course provides an overview of different wireless and mobile network protocols. It involves the study of the impact of wireless network characteristics on existing network protocols and newer protocols that are suited to such characteristics. Protocols for medium access control, routing, reliable transport and applications custom-made for wireless networks will be dealt with.
+
+
+
+
+Course Number: 5370
+Credit Hours: 3
+Title: Artificial Intelligence
+Course Description: Introduction to concepts and ideas in artificial intelligence. Topics include search techniques, knowledge representation, control strategies and advanced problem-solving architecture.
+
+
+
+
+Course Number: 5375
+Credit Hours: 3
+Title: Machine Learning
+Course Description: This course is an introduction to machine learning, the study of how to make a machine change its actions automatically to improve its performance.  In addition, graduate students need to present a research paper.
+
+
+
+
+
+Course Number: 5380
+Credit Hours: 3
+Title: 3D modeling for Computer Graphics
+Course Description: This introductory course in three-dimensional (3D) modeling covers techniques for creating content designed for use in real-time computer graphics applications using appropriate software with particular emphasis on computer games. Topics include mathematical foundations, 3D file formats, creation and modification of 3D geometric shapes, surface texturing, lighting, rendering and a survey of current software tools and techniques.
+
+
+
+
+Course Number: 5381
+Credit Hours: 3
+Title: 3D Animation for Computer Graphics
+Course Description: This introductory course in three-dimensional (3D) animation covers techniques for programming in C++ and creating content designed for use in real-time computer graphics applications using appropriate software with particular emphasis on computer games and character animation. Topics include rigid versus on-rigid body animation, skeletal techniques, morphing, kinematics, animation blending, key framing, time coding, motion capture, lip sync, synchronization methods, file formats and a survey of current software tools and techniques.
+
+It is recommended that CPSC 5380 be completed before taking this course
+
+
+
+
+
+
+
+
+
+
+Course Credit for 5000 Classes
+No more than 6 hours of senior-level courses may be included in the COSC graduate degree program; if a student wishes to include such courses in the degree plan, prior approval of the department must be obtained. Students may take up to two graduate courses offered by College of Arts and Sciences, College of Engineering. College of Business, College of Fine Arts and Communication as electives in the Master in Computer Science program.
+
+
+Academic Standards
+If a student's GPA on all graduate and/or deficiency courses falls below 3.0, the student will be placed on probation the following semester.
+
+
+ 
